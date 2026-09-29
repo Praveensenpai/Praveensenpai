@@ -9,7 +9,7 @@ India 📍 · Rust & Linux Specialist · Terminal-First Mindset
 <br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,linux,bash,py,kotlin,sqlite,android,git,tmux" />
+  <img src="https://skillicons.dev/icons?i=rust,arch,linux,bash,py,kotlin,sqlite,git,neovim" />
 </a>
 
 <br><br>
@@ -41,17 +41,13 @@ India 📍 · Rust & Linux Specialist · Terminal-First Mindset
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Praveensenpai&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4&icon_color=f38ba8" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensenpai&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=181825&title_color=cba6f7&text_color=cdd6f4" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveensenpai&theme=tokyonight" />
 
 </div>
 
 ---
 
 <div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Praveensenpai-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Praveensenpai)
-[![GitHub](https://img.shields.io/badge/GitHub-Praveensenpai-181717?style=for-the-badge&logo=github)](https://github.com/Praveensenpai)
 
 *“Simplicity is prerequisite for reliability.”*
 
